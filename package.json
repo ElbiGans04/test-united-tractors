@@ -1,0 +1,10 @@
+{
+  "name": "testunited",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  }
+}
